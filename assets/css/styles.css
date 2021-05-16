@@ -54,3 +54,23 @@ body {
     left: 100px;
     margin: 2% 0 0 -75px;
 }
+
+@media screen and (max-width: 768px) {
+    .carta{
+        margin: 2% 0 0 -125px;
+    }
+
+   h2{
+      font-size: 1.75rem;
+   }
+}
+
+@media screen and (max-width: 300px) {
+    .carta{
+        margin: 1% 0 0 -128px;
+    }
+
+   h2{
+      font-size: 1.5rem;
+   }
+}
