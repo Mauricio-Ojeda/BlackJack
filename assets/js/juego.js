@@ -132,9 +132,7 @@
                 detener.disabled = true;
                 turnoComputadora(puntosJugador);
 
-            }
-            console.log(puntosJugador);
-
+            }            
         });
 
 
